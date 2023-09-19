@@ -1,0 +1,1 @@
+// Crie um programa para cadastrar Jogo que irá solicitar ao usuário o nome, o gênero e o ano de lançamento do mesmo. Em seguida, monte um OBJECT contendo essas informações e por meio dele e imprima as características do jogo usando a função log.
