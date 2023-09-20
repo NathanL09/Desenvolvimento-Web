@@ -6,15 +6,15 @@
 const number1 = (prompt("Digite o primeiro número para calcular: "))
 const number2 = (prompt("Agora digite o segundo número: "))
 
-alert(`os números são ${number1} e ${number2}!`)
+alert(`Os números são ${number1} e ${number2}!`)
 
-const add = number1 + number2;
-const sub = number1 - number2;
-const mul = number1 * number2;
-const div = number1 / number2;
-const rem = number1 % number2;
-const exp = number1 ** number2;
-const sqr = number1 **  (1 / number2);
+const add = number1 + number2
+const sub = number1 - number2
+const mul = number1 * number2
+const div = number1 / number2
+const rem = number1 % number2
+const exp = number1 ** number2
+const sqr = number1 **  (1 / number2)
 
 document.write (`A soma de ${number1} e ${number2} é de: ${add} <br>`);
 document.write (`A subtração de ${number1} e ${number2} é de: ${sub} <br>`);
