@@ -7,7 +7,7 @@
 // not  !
 
 const creditCard = true
-const hasCredit = false
+const hasCredit = true
 
 console.log(!creditCard);
 console.log(creditCard);
