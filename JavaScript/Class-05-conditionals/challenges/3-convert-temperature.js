@@ -34,9 +34,9 @@ function degreeConvert(degree) {
 }
 
 try {
-const temperature = prompt("Digite a temperatura");
+const temperature = prompt("Digite uma temperatura: ");
 const temperatureConverted = degreeConvert(temperature);
-console.log(`${temperature} = ${temperatureConverted}`);
+alert(`${temperature} = ${temperatureConverted}`);
 } catch (error) {
-    console.error();(error);
+    console.error() ;
 }
