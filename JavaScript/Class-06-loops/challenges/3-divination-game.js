@@ -1,4 +1,4 @@
-const randomNumber =  Math.ceil(Math.random() * 10);
+const randomNumber =  Math.ceil(Math.random() * 20);
 let countTry = 1
 
 while (true) {
