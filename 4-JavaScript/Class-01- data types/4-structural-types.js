@@ -2,7 +2,7 @@
 
 let nameStudent = "Nathan";
 let age = 17;
-let profission = "Student \nweb developer";
+let profission = "Student web developer";
 
 console.log(profission);
 
